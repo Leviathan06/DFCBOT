@@ -38,4 +38,4 @@ async def 추가(ctx, food):
         await ctx.reply(f"{food}가 추가되었습니다.")
     
  
-bot.run('MTEyNTcyNDYzOTU0OTczMDgzNw.GcSdBW.HhWcn6ZBitu95A-ebuVEpEg9aSpRwsIcv5Ikqo')
+bot.run('') #디스코드 토큰
